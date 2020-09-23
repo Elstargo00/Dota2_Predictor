@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method='POST' , action="/retrain_model">
+    <div class="form-group">
+        <button type="submit" class='btn btn-outline-info' name="prepare_data" value="prepare_data" > Prepare Data </button>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class='btn btn-outline-info' name="logistic_regression_model" value="logistic_regression_model" > Logistic Regression Model </button>
+    </div>
+</form>
+
+{% endblock content %}
