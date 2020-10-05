@@ -28,7 +28,7 @@ Since they're reliable statistics that have been used throughout Dota2 history p
 So the idea is to train a machine to know the picture of the winning match (high value of pixel above) or the losing match (low value of pixel above).
 
 Each time we predict, it requires information of:
-1. (The radiant team)                           &nbsp;  7. (The radiant team)  
+1. (The radiant team) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  7. (The radiant team)  
 2. Position 1 of the radiant team (Player:Hero) &nbsp;  8. Position 1 of the dire team (Player:Hero)
 3. Position 2 of the radiant team (Player:Hero) &nbsp;  9. Position 2 of the dire team (Player:Hero)
 4. Position 3 of the radiant team (Player:Hero) &nbsp; 10. Position 3 of the dire team (Player:Hero)
