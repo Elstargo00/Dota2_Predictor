@@ -6,7 +6,7 @@ One day I've learned (Andrew Ng) neural networks course from Coursera. There is 
 I'm a big fan of Dota2. If you have no idea what Dota2 is, here are very brief explanations. Dota2 is a MOBA game.
 There are two teams with 5 players on each. Each player will pick their hero (can't be the same).
 Finally, the game has only one winning team, which could be 'Team Dire' or 'Team Radiant.'
-What I want to build is ML that's able to classify <b> the picture of the victory <b> of the radiant team.
+What I want to build is ML that's able to classify <b> the picture of the victory </b> of the radiant team.
 If the output = 1, it means "Radiant Victory." Else (the output = 0), means "NOT Radiant Victory". It's pretty much the same concept with 'cat' or 'NOT cat.'
 
 So how <b> the picture of the victory </b> team will look like?
